@@ -11,7 +11,7 @@ __pycache__/
 /mm/
 env/
 build/
-images/
+yummy/
 develop-eggs/
 dist/
 downloads/
